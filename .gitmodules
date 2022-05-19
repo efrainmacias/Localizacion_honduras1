@@ -1,0 +1,4 @@
+[submodule "honduras"]
+	path = honduras
+	url = git@git.vauxoo.com:vauxoo/honduras.git
+	branch = 15.0
